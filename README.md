@@ -1,23 +1,12 @@
 # Note Takr
 This is a simple application that allows users to view, write, and delete notes. The application uses a server to serve resources, webpages, and information.
 
-* ![](/img/main.jpg)
-* ![](/img/notes.jpg)
+![](/img/main.jpg)
+![](/img/notes.jpg)
 
 
 ## Link to Deployed Application
 [Click Here](https://yuniknotetakr.herokuapp.com/)
-
-## Description 
- This was the eleventh homework assignment for the full stack web development program at UT Austin, in which the goal was to build an application that allows the user to create, save, and delete notes which runs on a server.
-
-## Table of Contents 
-* [Technologies](#Technologies)
-* [Usage](#Usage)
-* [License](#License)
-* [Badges](#Badges)
-* [Tests](#Tests)
-* [Questions](#Questions)
 
 ## Technologies 
 * This application is written in Javascript and uses HTML and CSS for styling. It also incorporates the Bootstrap CSS framework.
