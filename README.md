@@ -1,8 +1,8 @@
 # Note Takr
 This is a simple application that allows users to view, write, and delete notes. The application uses a server to serve resources, webpages, and information.
 
-* ![deployed application](./public/Assets/img/main.JPG)
-* ![deployed application](./public/Assets/img/note.JPG)
+* ![](/img/main.JPG)
+* ![](/img/note.JPG)
 
 ## Link to Deployed Application
 [Click Here](https://yuniknotetakr.herokuapp.com/)
