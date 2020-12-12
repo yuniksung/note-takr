@@ -39,5 +39,6 @@ In order to use this application, navigate to the link to the [deployed applicat
 ## Tests 
 This project does not include any tests.
 
-## Questions 
- For any questions, contact me at [yuniksung@gmail.com](mailto:yuniksung@gmail.com).
+## Contribution
+- YUNIK SUNG <YUNIKSUNG@GMAIL.COM>
+---
